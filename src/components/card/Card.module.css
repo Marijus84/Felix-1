@@ -1,0 +1,13 @@
+.cardImage {
+  object-fit: cover;
+  object-position: top;
+  aspect-ratio: 1.2;
+}
+
+.card {
+  max-height: 600px;
+  background: #222;
+  margin: 1rem 2rem;
+  color: white;
+  text-align: center;
+}
